@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/workbackai-mcp-nodejs-debugger-badge.png)](https://mseep.ai/app/workbackai-mcp-nodejs-debugger)
+
 # MCP Node.js Debugger
 
 An MCP server that gives Cursor or Claude Code access to Node.js at runtime to help you debug: [`@hyperdrive-eng/mcp-nodejs-debugger`](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger).
